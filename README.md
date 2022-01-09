@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/910217927746265218/929573096648757258/Untitled_Artwork.png" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+## <div align="center">Hi! I am ZentoxDeveloper. I am a developer who likes to learn more about everything related to development. I have been working on the development since October 2017.</div>  
   
 ***
 
