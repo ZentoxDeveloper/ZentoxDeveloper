@@ -17,7 +17,7 @@
   
 ***
 ## SOCIALMEDIA
-<a href="https://discord.gg/VjyejfwPcm" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/71612890/149603989-f0f854db-f5b6-4d29-971c-154b32a9e30c.svg" alt="cwkhan" height="30" width="40" /></a>
+<a href="https://discord.gg/VjyejfwPcm" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/71612890/149603989-f0f854db-f5b6-4d29-971c-154b32a9e30c.png" alt="cwkhan" height="30" width="40" /></a>
 <a href="https://discord.gg/VjyejfwPcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZentoxDeveloper" height="30" width="40" /></a>
 <a href="https://discord.gg/VjyejfwPcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ZentoxDeveloper" height="30" width="40" /></a>
 <a href="https://discord.gg/VjyejfwPcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ZentoxDeveloper" height="30" width="40" /></a>
