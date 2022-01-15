@@ -20,7 +20,7 @@
 ## [Discord Server](https://discord.gg/VjyejfwPcm) | [Website](https://development.zentox.net)
 <a href="https://discord.gg/VjyejfwPcm"><img src="https://discord.com/api/guilds/724660679147126904/widget.png?style=banner2"></a>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">SOCIALMEDIA</h3>
 <p align="left">
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwkhan" height="30" width="40" /></a>
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hjgaming" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hjgaming" height="30" width="40" /></a>
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hjgaming" height="30" width="40" /></a>
 </p>
-***
+
 
 ## SUPPORT ME / ZENTOXDEVELOPMENT
 
