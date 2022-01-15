@@ -22,8 +22,7 @@
 
 ***
 
-<h2 align="left"># SOCIALMEDIA</h3>
-<p align="left">
+## SOCIALMEDIA
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwkhan" height="30" width="40" /></a>
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hjgaming" height="30" width="40" /></a>
 <a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hjgaming" height="30" width="40" /></a>
