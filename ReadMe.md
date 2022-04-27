@@ -7,7 +7,7 @@
   
 ***
 
-- ↪️ I’m currently working on a [**Multi-Guild & Multi-Perpose discord bot!**](https://discord.gg/VjyejfwPcm)
+- ↪️ I’m currently working on a [**Multi-Guild & Multi-Purpose discord bot!**](https://discord.gg/VjyejfwPcm)
   
 - ↪️ I’m currently coding in HTML, CSS, JS, NodeJS
 
