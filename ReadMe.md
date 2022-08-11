@@ -4,7 +4,7 @@
 </div>
 
 ## <div align="center">Hi! I am ZentoxDeveloper. I am a developer who likes to learn more about everything related to development. I have been working on the development since October 2017.</div>  
-  
+  ![](https://discord.c99.nl/widget/theme-3/353648383535218700.png)
 ***
 
 - ↪️ I’m currently working on a [**Multi-Guild & Multi-Purpose discord bot!**](https://discord.gg/VjyejfwPcm)
