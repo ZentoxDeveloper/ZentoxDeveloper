@@ -22,7 +22,7 @@
 <a href="https://instagram.com/froxioen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ZentoxDeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@froxioen2643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ZentoxDeveloper" height="30" width="40" /></a>
 </p>
-<a href="https://discord.gg/3vQz5hAaTc"><img src="https://discord.com/api/guilds/860510517192556565/widget.png?style=banner2"></a>
+<a href="https://discord.gg/3vQz5hAaTc"><img src="https://discord.com/api/guilds/860510517192556565/widget.png?style=banner2&width=500px"></a>
 
 ***
 
