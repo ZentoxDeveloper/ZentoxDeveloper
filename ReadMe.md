@@ -9,7 +9,7 @@
 
 - ↪️ I’m currently working on a [**Multi-Guild & Multi-Purpose discord bot!**](https://discord.gg/VjyejfwPcm)
   
-- ↪️ I’m currently coding in HTML, CSS, JS, NodeJS
+- ↪️ I’m currently coding in HTML, CSS, JS, Lua, Python, Java & more not interesting coding languages.
 
 - ↪️ I like to develop anything and everything. So if you need me, send me a direct message via discord. Then we will agree a nice price. :D
   
